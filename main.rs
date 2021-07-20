@@ -6,5 +6,7 @@ fn main()
 	println!( "Hello, GitHub!" );
 
 	println!( "Commit, test." );
+
+	println!( "Test, e-mail, private." );
 }
 
