@@ -8,5 +8,7 @@ fn main()
 	println!( "Commit, test." );
 
 	println!( "Test, e-mail, private." );
+
+	println!( "Test, private, no-reply." );
 }
 
